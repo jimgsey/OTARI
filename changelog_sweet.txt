@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Redmi Note 10 Pro/Max (sweet/sweetin)
+Device maintainer: Jimgsey
+
+===== 06-05-23 =====
+- Added Miui Camera Support
+- Change kernel to Aghisna-R14
+- Repo sync (06-05-23)
