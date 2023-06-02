@@ -3,6 +3,14 @@ Build type: Weekly
 Device: Redmi Note 10 Pro/Max (sweet/sweetin)
 Device maintainer: Jimgsey
 
+===== 02-06-23 =====
+- Added Leica Camera 
+- Change kernel to Aghisna-RX
+- Repo sync (02-06-23)
+- Fix paddings and sie icons
+- Added translation to specific settings 
+(If you want to translate in other languaje, write me)
+
 ===== 06-05-23 =====
 - Added Miui Camera Support
 - Change kernel to Aghisna-R14
